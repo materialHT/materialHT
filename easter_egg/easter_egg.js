@@ -1,5 +1,9 @@
 var RR = RR || {};
 
+        for(var i = 0; i > 0; i++){
+        console.log("boom")
+        };
+
 RR.Detect = (function(){
 
     var detect = {};
